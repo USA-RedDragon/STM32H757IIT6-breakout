@@ -4,11 +4,11 @@ This board is aimed to evaluate the ST Microelectronics STM32H757IIT6 for use in
 
 ## Current Status
 
-Not useful. This board is just a footprint and some pin headers. No tracks are even laid.
+Not useful. This board should be usable for powering the STM, but features some unconnected pin headers.
 
 ## BOM
 
-As of writing, the BOM comes out to $24.29 USD.
+As of writing, the BOM comes out to $24.69 USD.
 
 Octopart: https://octopart.com/bom-tool/58tXZVEL
 
