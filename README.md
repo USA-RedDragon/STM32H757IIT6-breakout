@@ -8,7 +8,7 @@ Not useful. This board should be usable for powering the STM, but features some 
 
 ## BOM
 
-As of writing, the BOM comes out to $24.69 USD.
+As of writing, the BOM comes out to $131.83 USD.
 
 Octopart: https://octopart.com/bom-tool/58tXZVEL
 
